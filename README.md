@@ -1,79 +1,23 @@
 # projet-disney-plus
+ReadMe - Code HTML
+Ce repository contient un fichier HTML représentant une page web pour le site Disney+.
 
-CAHIER DES CHARGES
-TECHNIQUE
+Description
+Ce code HTML est une représentation basique de la page d'accueil du site Disney+. Il comprend les éléments suivants :
 
+Structure HTML de base avec les balises <html>, <head> et <body>.
+Utilisation de balises <meta> pour définir l'encodage, la compatibilité avec les navigateurs et la vue.
+Importation de fichiers CSS externes pour la mise en forme de la page sur différents appareils (ordinateur, tablette, smartphone).
+Définition d'un titre pour la page avec la balise <title>.
+Utilisation de la balise <link> pour ajouter une icône de raccourci (favicon) pour le site.
+Création d'une section de navigation avec un bouton de connexion.
+Ajout d'un logo Disney+ et d'un formulaire d'inscription par e-mail.
+Mise en place de différentes sections pour mettre en valeur les contenus exclusifs de Disney+, les options de visionnage et les fonctionnalités du service.
+Inclusion d'une section de FAQ avec des questions fréquemment posées et leurs réponses.
+Utilisation
+Pour utiliser ce code HTML, vous pouvez le copier dans un fichier avec l'extension .html et l'ouvrir dans un navigateur web. Assurez-vous également de disposer des fichiers CSS mentionnés dans les balises <link> pour obtenir la mise en forme correcte sur différents appareils.
 
-Projet Plateforme Disney+ Europe
+Auteur
+Ce code a été écrit par un auteur Bah Ibrahima.
 
-
-
-
-
-
-
-
- 
-Sommaire
-1.	Disney+ : présentation	3
-2.	Contexte	3
-3.	Objectifs	3
-4.	Périmètre	3
-4.1.	Besoins fonctionnels	3
-4.2.	Besoins techniques	3
-5.	Réponses aux attentes	3
-5.1.	Wireframes	4
-5.2.	Maquettes	4
-5.3.	Mockup	4
-5.4.	Langages utilisés	4
-5.5.	Plateforme de partage de code	4
-5.6.	Hébergement	4
-5.7.	Méthode projet utilisée et calendrier	4
-
- 
-1.	Disney+ : présentation
-
-Disney+ est un service de vidéo à la demande par abonnement payant détenu et exploité par The Walt Disney Company au travers de sa division Walt Disney Direct-to-Consumer and International, et a été lancé en novembre 2019 en Amérique du Nord.
-
-Le service propose principalement des films et des séries télévisées produits par The Walt Disney Studios et Walt Disney Television, avec des hubs de contenu dédiés pour les marques Pixar, les Classiques d'animation Disney, Marvel, Star Wars, National Geographic et, depuis le 23 février 2021 dans plusieurs pays, l'extension Star,. Des films originaux et des séries télévisées y sont également distribués. Elle diffuse pour ses abonnés du contenu déjà connu, comme Les Simpson de 20th Century Studios, mais aussi des productions originales liées aux franchises, comme The Mandalorian pour Star Wars, WandaVision pour Marvel et Le Monde selon Jeff Goldblum pour National Geographic.
-
-2.	Contexte
-
-Dans le cadre de son développement en Europe, The Walt Disney Company vous a été sollicité pour créer la page vitrine française et anglaise de leur plateforme Disney+.
-
-3.	Objectifs
-
-Le prestataire sélectionné devra développer les sites vitrine de Disney+ en langue française et anglaise.
-
-Les éventuelles contraintes techniques devront être prises pour la réalisation de ce projet.
-
-4.	Périmètre
-4.1.	Besoins fonctionnels
-Le site vitrine de la plateforme Disney+ devra permettre de présenter le fonctionnement du site de streaming :
-•	Type de contenu disponible
-•	Tarif
-•	Device compatible
-•	Fonctionnement
-4.2.	Besoins techniques
-Le site vitrine de la plateforme Disney+ devra être réalisé avec les langages suivants :
-
-•	HTML 5.0
-•	CSS 3
-•	JavaScript
-Il devra être hébergé sur la plateforme Netlify.
-
-5.	Réponses aux attentes
- 
-5.1.	Wireframes
-
-5.2.	Maquettes
-
-5.3.	Mockup
-
-5.4.	Langages utilisés
-
-5.5.	Plateforme de partage de code
-
-5.6.	Hébergement
-
-5.7.	Méthode projet utilisée et calendrier
+Remarque : Ce fichier ReadMe est une description basique du code HTML fourni. Il peut être étendu et amélioré en fonction des besoins spécifiques du projet.
